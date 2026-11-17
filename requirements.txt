@@ -1,0 +1,4 @@
+orjson>=3.10
+click>=8.1
+tenacity>=8.2
+httpx>=0.27
